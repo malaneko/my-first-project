@@ -1,0 +1,5 @@
+My first Git Project
+
+Today I'm learning Git! 
+This is my first commit. 
+-Magda
