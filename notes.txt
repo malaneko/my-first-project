@@ -3,3 +3,7 @@ My first Git Project
 Today I'm learning Git! 
 This is my first commit. 
 -Magda
+
+
+And THIS is my second commit here. 
+Yay!
